@@ -10,5 +10,6 @@
     h1{
         text-align: center;
         margin-top: 50px;
+        font-size: 50px;
     }
 </style>
